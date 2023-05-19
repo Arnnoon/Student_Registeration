@@ -1,4 +1,4 @@
-# ER diagram
+# Final ER diagram
 ![ER Diagram](https://github.com/Arnnoon/Student_Registeration/assets/87826474/d9b8677f-205b-4deb-a34d-ca9b616c39fb)
 # Report
 ![Midterm_Report-01](https://github.com/Arnnoon/Student_Registeration/assets/87826474/200d81b3-f09b-43b4-b128-e27b38d50d2f)
