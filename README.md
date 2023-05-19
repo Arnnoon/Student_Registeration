@@ -1,4 +1,15 @@
 # ER diagram
 ![ER Diagram](https://github.com/Arnnoon/Student_Registeration/assets/87826474/d9b8677f-205b-4deb-a34d-ca9b616c39fb)
 # Report
-[Midterm_Report.pdf](https://github.com/Arnnoon/Student_Registeration/files/11515437/Midterm_Report.pdf)
+![Midterm_Report-01](https://github.com/Arnnoon/Student_Registeration/assets/87826474/200d81b3-f09b-43b4-b128-e27b38d50d2f)
+![Midterm_Report-02](https://github.com/Arnnoon/Student_Registeration/assets/87826474/15448f44-4426-44ea-8e22-233fee8ec447)
+![Midterm_Report-03](https://github.com/Arnnoon/Student_Registeration/assets/87826474/bba87398-85b0-4370-a54b-e123695f7a62)
+![Midterm_Report-04](https://github.com/Arnnoon/Student_Registeration/assets/87826474/0d8dd7fd-3eae-47e2-af73-c573e5f4a39a)
+![Midterm_Report-05](https://github.com/Arnnoon/Student_Registeration/assets/87826474/cbefc1f3-4d5d-4396-b59d-c493a5ed7b26)
+![Midterm_Report-06](https://github.com/Arnnoon/Student_Registeration/assets/87826474/7d52abeb-1183-4891-9a9e-27e4053fa8c9)
+![Midterm_Report-07](https://github.com/Arnnoon/Student_Registeration/assets/87826474/f6447498-174f-4eb9-8eb5-046a933d46bb)
+![Midterm_Report-08](https://github.com/Arnnoon/Student_Registeration/assets/87826474/f11fd886-5ff6-4db2-acb6-15a1381c947a)
+![Midterm_Report-09](https://github.com/Arnnoon/Student_Registeration/assets/87826474/8c3f5d03-be15-4b0d-8309-ff24ac9acc02)
+![Midterm_Report-10](https://github.com/Arnnoon/Student_Registeration/assets/87826474/37754d7e-b12f-474e-a412-27a9bdf451b3)
+![Midterm_Report-11](https://github.com/Arnnoon/Student_Registeration/assets/87826474/8d1ea58a-d2c6-48fb-8c25-69b371ab6d72)
+![Midterm_Report-12](https://github.com/Arnnoon/Student_Registeration/assets/87826474/5104a62b-5cb0-4ad3-801b-eb415e4717d8)
